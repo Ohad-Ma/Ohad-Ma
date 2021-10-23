@@ -6,7 +6,8 @@
 - 🗣️ Knowledge in Java, Python, C++, C, JavaScript, C#, CSS, Bash, CMD. 
 - 📫 How to reach me easily via email - Maday.ohad@gmail.com.
 
-[![Ohad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohad-ma)](https://github.com/anuraghazra/github-readme-stats)
+[![Ohad's GitHub stats]](https://github-readme-stats.vercel.app/api?username=ohad-ma&show_icons=true&theme=dracula)
+
 
 <!---
 Ohad-Ma/Ohad-Ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
